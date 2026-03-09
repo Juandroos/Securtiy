@@ -1,2 +1,12 @@
 TEST
 https://drive.google.com/file/d/1BDjhGTWNLswASQqYpacPGaZnFjATd111/view
+
+
+The sample employs multiple techniques to detect if it's running in a virtualized environment. How many registry keys and VM-related process names does it check for virtualization detection?
+
+Answer Format: NumberOfRegistries, NumberOfProcess
+www.practicalmalwareanalysis.com
+
+The malware uses an encryption technique to hide sensitive strings from static analysis. What is the key (in hex) used to decrypt the primary obfuscated strings?
+
+Answer Format: 0xAB0x3B
